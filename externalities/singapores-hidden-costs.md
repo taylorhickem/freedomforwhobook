@@ -1,0 +1,61 @@
+# Singapore's hidden costs
+
+![Orchard road: Photo credit Getty Images](../.gitbook/assets/image%20%2857%29.png)
+
+The warning of Thomas Piketty is that the pressure of wealth inequality will become greater if in the future Singapore sees declined productivity growth.  In fact Singapore has experienced growing wealth and income inequality since independence and there is evidence that this has received an increasing concern politically both among the public and the political leadership.  
+
+## In this section
+
+1. [Uneven prosperity](singapores-hidden-costs.md#uneven-prosperity)
+2. [Accounting for the less visible](singapores-hidden-costs.md#accounting-for-the-less-visible)
+3. [Low emotional expression](singapores-hidden-costs.md#low-emotional-expression)
+4. [Longer working hours](singapores-hidden-costs.md#longer-working-hours)
+5. [Poor sleep, rising obesity](singapores-hidden-costs.md#poor-sleep-rising-obesity)
+
+## Uneven prosperity
+
+Since the 1970’s wealth inequality in Singapore has increased.  During the period from 1997 to 2009 while GDP grew by 5.2% this was mostly attributed to increase of inputs of foreign labor and capital and only 1.08% gain in real wages, so only 15% of the gains of GDP from this period distributed to households as increase in income \(Singapore statistics; MTI, 2010\).  Furthermore these gains in wages have not distributed evenly and income inequality increased in two dimensions during the period from 1985 until 2011. The first dimension of inequality is within the resident population with gini coefficient increasing from 0.41 in 1990 to 0.48 in 2007 before taxes and transfers \(MOF, 2015\). The second more pronounced dimension of inequality is the gap in real wages between resident and foreign migrant workers.  
+
+Singapore’s gains in income have accumulated disproportionately to a minority in the public and capital owners, with a smaller share observed by the majority of the working class and migrant communities.  Singapore’s gini coefficient is reported to be 0.42 and 0.38 after taxes and transfers \(MOF, 2015\). However, this is only reported for the working resident population and masks the inequality effect of foreign workers.  Furthermore 0.38 after taxes and transfers is higher than other developed countries of similar income such as the Netherlands \(0.285\), Japan \(0.335\) and South Korea \(0.355\) in 2016 \(OECD, 2020\).  These countries have larger government programs and taxation levels to perform these adjustments \(MOF, 2015\).  The share of the population living in poverty among working residents in Singapore is between 12-26% depending on whether absolute, or relative poverty for all households of citizens and permanent residents is reported \(Ng, 2018\). On the basis of relative poverty for the whole population including migrant and non-working households could be as high as 35-45% far above other developed countries, given that the payment terms of foreign workers are known and are well below the relative poverty threshold of 0.5 median income of S$10,152/month \(Ng, 2018\).   When these social costs are added to the impact beyond the border and subtracted from the GDP it appears that Singapore has gone backwards and not forwards \(Delang, 2016\).
+
+## Accounting for the less visible
+
+![Foreign worker dormitory during Singapore circuit breaker. Photo credit AFP](../.gitbook/assets/image%20%286%29.png)
+
+Looking beyond the gross metrics of GDP at the human lives affected by that growth raises the question as to whether that growth represents meaningful and sustainable progress towards prosperity and genuine improvement of the human condition.  This human story was exposed to the world in April this year, when an outbreak of coronavirus cases in migrant dormitories tarnished the prior narrative that the city-state was a success story of state response \(Stack, NY Times, 2020\).  The deaths from the migrant workers were directly related to the crowded living conditions of their dormitories and limited ability to safe distance like those in the rest of society with higher housing standards.  More than a quarter of Singapore’s 5.6 million are non-resident foreign workers \(MOM, 2019\).  The story exposed the reality of Singapore’s economy, regarding how it uses a large population of foreign migrant workers in construction and domestic helpers, which have different labor protections and living standards than the rest of the resident population \(Chia, Siow Yue 2011\).  Foreign workers are also restricted from participation in the formal political process \(Singaporeans for Democracy, 2012\).  Singapore shares many features of large modern cities such as New York, London and Tokyo which also have large populations of migrant workers. 
+
+The total non-resident population in Singapore including expatriates, employment pass and unskilled labor increased from 2.9% in 1970 to 25% by 2010 \(Chia, Siow Yue 2011\).  As of 2019 there are approximately 1,200,000 foreign migrant workers of Singapore’s 5.6 million population or 20% who are earning Work Permit or S-pass, close to the poverty line.  The remaining 200,000 foreign workers on Employment Pass earn wages comparable to the median income  \(MOM, 2020\).  As a group foreign migrant labor on work permits, foreign domestic worker \(FDW\) and to a lesser extent S-pass have not realized any true gain in real wages as their wages have remained close to the absolute poverty threshold since the 1970s up until the present day.  Presently the poverty threshold is defined at S$1,878 per month compared to the S-pass cutoff of S$2,400 per month and research reports by HOME on foreign domestic workers elaborate in full the disparity between standard of living between foreign migrants and residents \(Ng, 2018; MOM, 2020; HOME, 2015\).  Given the Employment pass cutoff threshold of $3,600 and the relative poverty threshold of $5,078 a single family S-pass holders would also fall into the category of relative poverty and a hypothetical dual income household at the lower salary range would also be considered in relative poverty.  
+
+## **Low emotional** expression
+
+_If you measure Singapore by the traditional indicators, they look like one of the best-run countries in the world, but if you look at everything that makes life worth living, they’re not doing so well._  
+- Jon Clifton, Managing Partner at Gallup 2012
+
+While Singapore may rank high in measures of income and education, these gains may come at an expense of quality of life – both directly due to higher levels of chronic stress, poorer quality social and psychological health, and indirectly through the costs of depletion of environmental resources and carbon pollution. These externalities costs are shifted inter-generationally to Singapore’s future generations and internationally to regions that are the source of imported materials. 
+
+As social beings, once we have satisfied our material needs, our experience in our social lives matters in how we determine whether we are satisfied or not with our lives.  Maslow's hierarchy of needs can be a simple way to communicate this universal understanding of our shared inner life experience and priorities \(Sapolsky, 2017\).  Research suggests that changes to our levels of life satisfaction not only affect us, but can have material impact on election results and faith in political leadership \(Ward, 2015\).  When it comes to feeling fulfilled in their social lives there is evidence for concern. In a 2012 Gallup poll \(Clifton, 2012\), Singaporeans reported one of the lowest measures of emotional expression for both positive and negative emotions. Psychologists report that emotional expression is an important indicator of healthy social and emotional lives \(Goleman, 1995\). 
+
+In the poll Singaporeans responded with one of the lowest response rates of 36% for a “Yes” to the questions of:
+
+* _did you feel well rested?_
+* _were you treated with respect all day yesterday?_
+* _did you smile or laugh a lot yesterday?_
+* _did you learn or do something interesting yesterday?_
+* _did you experience \(enjoyment, physical pain, worry, sadness, stress, anger\)?_
+
+## Longer working hours
+
+![Figure 5.3 : productivity vs hours worked per person per year \(Economist, 2014\)](https://lh4.googleusercontent.com/vxDaAc2q45P5rv93gtcfCwWKK0o22GyKjM5Qda4COLLW1YChIKsWkOfPVunqY5ySqXZ5rLHxSmCq4LmV4dzN7fO5M5lHeaBoICUsMT6Jr2DooYSqI9MOxhsjNWLRqUTXWTiIM962)
+
+Another concern for quality of life is a long observed trend that Singaporeans work the longest hours per week among developed countries.  European countries like Germany and France have reduced average working hours from 50 hrs in the 20th century down to 35 hrs.  Recently, South Korea has also dropped to less than 40 hrs, while Singapore, Hong Kong and the United States still have high working hour averages of more than 40 hrs \(OECD, 2020\).  On average Singapore’s working hours peaked in 2010 at 46 hrs and has declined to 42 hrs, but is still high at 47-50 hrs in construction and manufacturing \(Singapore Statistics, last accessed 2020\). Figure 5 presents evidence of diminishing marginal returns for hours worked per week \(Economist, 2014\).  In the figure longer working hours is associated with countries that have on average lower GDP per hour worked.  The longer working hours manifest into a number of other social costs including the pressure on mothers and fathers to arrange for alternative child care.  This strain on family obligations partly explains the promotion of imported foreign domestic workers as a care provider substitution for higher educated local Singaporean women \(Tang, 2018\).  The domestic workers do not enjoy the same social protections as residents and citizens, report high frequency of restricted privacy, verbal abuse, late payment, restriction of movement and are paid wages close to the absolute poverty level.
+
+## Poor sleep, rising obesity
+
+There are only 24 hours in a day, so longer working hours must come at the expense of other activities.  In a study from the UK longer working hours was found to be statistically linked to shorter sleep hours \(Virtanen, 2009\).   Sleep is essential to maintaining good health for wide range of mental and physical capacities from avoiding accidents, maintaining sex drive and cognitive abilities focus and attention span, alertness, concentration, reasoning, judgement, discrimination, conceptualization and problem solving, avoiding health problems, clinical depression, skin ageing \(UHC, 2016\). The recommended sleep hours is 7 to 9 hrs per night and sleep less than 7 hrs is statistically linked to higher risk of poor health outcomes \(Virtanen, 2009\). Singaporeans on average report the lowest level of sleep – only 7 hrs based on a survey by a health app Jawbone and consistent with survey data in 2020, which implies that a number of those surveyed are getting less than 7 hrs \(UHC, 2016 ; CNA, 2020\).  Changes in sleep hours per night on aggregate country level are slow moving public health trends that would take time to reverse once they have reached a certain point.  In one study the rate of change was estimated to be +/- 0.1 to +1.5 min per night per year \(Bin, 2012\). Another health area of concern is the rise in obesity and poor nutrition habits.
+
+![](../.gitbook/assets/image%20%2878%29.png)
+
+The trend of overweight is a recent phenomenon in Southeast Asia and in Singapore \(FIA communications, 2017\).  Rates of obesity in Southeast Asia rose from 1.1-1.9% in 1980 to 4.8% by 2014 and 6.2% for Singapore.  Caloric intake in Singapore was reported to increase by + 27% from 1998 to 2010  \(FIA communications, 2017\).  The trends in obesity and caloric intake coincide with rates of overweight \(Body mass index weight in kg /height squared m2  &gt;25\).  In 2017 the overweight rate in Singapore was estimated at 32.8%,  the 2nd highest in Southeast Asia behind Malaysia \(FIA communications, 2017\).  Obesity is linked to a number of long term health risk factors and has been statistically associated with economies that also have higher affluence and among the developed economies is correlated with wealth inequality as shown in Figure 5.3 above \(Pickett, 2005\).
+
+
+

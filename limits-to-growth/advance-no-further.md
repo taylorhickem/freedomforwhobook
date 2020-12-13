@@ -1,0 +1,19 @@
+# Advance no further
+
+![Figure 5.8 : Singapore&#x2019;s GDP growth rate 1960 to 2018](https://lh6.googleusercontent.com/XXljXUUVWhjR7zQmrUYyXpGxYeTpENbJret2pbKwH7UY5IXOjJ420d0V2vXiTH_P_wGF1qyGvWQ-tuLPCyqfUGKhPrilVmiST_hDswhxtwlrbwCE6a9JVy-oHpOXxB0kU7DKOCPf)
+
+_In a country which had acquired that full complement of riches \[...\] which could **advance no further** \[...\] both the wages of labor and the profit of stock would be low_  
+- Adam Smith, 1776 Wealth of Nations
+
+As predicted by Adam Smith \(Smith, 1776\), there may be an upper potential for further GDP growth due to dynamics outside the control of economic strategy.  The long term trend of growth rate of productivity, GDP and real wages has been positive and steadily dropping, while on absolute terms these metrics first rose sharply, then plateaued to their current levels \(MTI, 2016; Bercuson, 1995; IMF, 1995\).  These changes have occurred in tandem with its rise in incomes, human development index and ageing population. There are signs that two main driving forces of the status quo economic strategy - growth of labor productivity and global trade may not be as reliable compared to the early development period.  Furthermore the strategy has shaped the development path and current situation characterized by high affluence and incomes at the cost of persistent high wealth inequality, large segregated population of lower income foreign migrants, slower rate of growth of labor productivity and higher exposure to disruptive shocks in global trade.  This raises the question of whether rising GDP should be a priority at all in comparison to other challenges of employment, inflation and poverty.  
+
+In the long term in an environment of persistently low income growth, it may be unavoidable that Singapore must deal directly with wealth inequality as a primary policy agenda ahead of aggregate income growth, as other developed countries have done in Scandinavia and Japan \(MTI, 2016 productivity and wage growth in Singapore\). As indicated in Figure 5.8, Singapore has observed a general long term decline in the rate of income growth since 1960 from 10% to &lt;4% since 2010, averaging-1% per decade \(Singapore statistics, last accessed 2020\). The link to labor is that GDP growth and real wage growth in the long run track labor productivity growth. Labor productivity growth is the change in output divided by the change in labor input and can be defined at a firm level, sector level or for the whole economy.  Wealth inequality may be more easily tolerated by the public during periods of high income growth since individuals are able to base their satisfaction of their life conditions by comparing to prior periods and because there is a stronger growth driver of real wages.  The trend from Figure 8 of declining GDP is a warning that an economic strategy that aims for GDP growth at the opportunity cost of addressing inequalities may be naively optimistic and politically risky. In particular six drivers are presented here which may limit Singapore’s prospects for future labor productivity and GDP growth - intrinsic limits to productivity for the service economy, automation, slowdown of global trade and Singapore specific features entrepreneurial capacity, ageing population and low skilled foreign migrants:
+
+1. [Intrinsic limits to labor productivity growth in the service economy](intrinsic-limits-to-labor-productivity.md)
+2. [Automation as a disruptive accelerator to productivity trends](automation.md)
+3. [Slowdown in global trade](global-trade-slowdown.md)
+4. [Singapore growth prospects](singapore-growth-prospects.md)
+   1. [Entrepreneurial capacity](singapore-growth-prospects.md#lack-of-competitiveness-as-an-entrepreneurial-hub)
+   2. [Ageing population](singapore-growth-prospects.md#ageing-population)
+   3. [Low skilled foreign migrants](singapore-growth-prospects.md#composition-changes-in-labor-market-from-low-skilled-foreign-workers)
+
